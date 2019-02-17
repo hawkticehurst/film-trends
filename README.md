@@ -2,7 +2,7 @@
 
 A data analysis project using character metadata and IMBD ratings to discover film trends over the last ~85 years.
 
-Final project for CSE 160 at the University of Washington (Winter 2017).
+Final project for CSE 160: Data Programming at the University of Washington (Winter 2017).
 
 ## Research Questions
 
