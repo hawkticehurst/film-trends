@@ -67,7 +67,7 @@ The first visualization from this question plots years on the x-axis and IMBD ra
 
 Looking for trends from the data as whole was a bit challenging with this graph and is the reason why I chose to make a second graph depicting a line of best fit for the data (graph below). However, like the gender representation results, there are still some interesting outlier data points that can be noted.
 
-### The Lowest & Highest Rated Genres of the Last Century
+#### The Lowest & Highest Rated Genres of the Last Century
 The minimum rating is held by Fantasy and Horror, during 1965 with an IMBD rating of 2.5. The highest rating given in this data is an 8.9, during 1993 to the War genre. This was a very surprising data point for multiple reasons. It’s the highest rating during the last century and at a time when ratings across all genres were trending at their lowest ever. Additionally, the fact that this is rating is for the war genre is a surprising result when the Cold War had just ended two years prior and the world was entering a time of relative peace.
 
 ![Plot of movie rating results with a line of best fit](results/ratings-line-of-best-fit.png)
