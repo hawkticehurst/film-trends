@@ -6,13 +6,13 @@ Final project for CSE 160 at the University of Washington (Winter 2017).
 
 ## Research Questions:
 
-1.	Is there greater gender equality/representation in films today than in films from a couple decades ago?
+1. Is there greater gender equality/representation in films today than in films from a couple decades ago?
 
-__TLDR Answer:__ No, gender representation is about the same as it was a century ago after recently recovering from a massive trend towards over representing men in films across nearly all genres.
+	__TLDR:__ No, gender representation is about the same as it was a century ago after recently recovering from a massive trend towards over representing men in films across nearly all genres.
 
-2.	How have IMBD ratings across all genres changed over time?
+2. How have IMBD ratings across all genres changed over time?
 
-__TLDR Answer:__ Over the past century IMBD ratings have generally decreased by about one point across all genres.
+	__TLDR:__ Over the past century IMBD ratings have generally decreased by about one point across all genres.
 
 ## Motivation and Background:
 
