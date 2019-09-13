@@ -30,9 +30,9 @@ Source: [Cornell Movie Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Corne
 - Movie metadata included:
 	- Genres
 	- Release year
-	- IMDB rating
-	- Number of IMDB votes
-	- IMDB rating
+	- IMBD rating
+	- Number of IMBD votes
+	- IMBD rating
 - Character metadata included:
 	- Gender (for 3,774 characters)
 	- Position on movie credits (3,321 characters)
