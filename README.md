@@ -1,6 +1,6 @@
 # Film Trends Across Time
 
-A data analysis project using character metadata and IMBD ratings to discover film trends over the last ~85 years.
+A data analysis project using character metadata and IMDb ratings to discover film trends over the last ~85 years.
 
 _Final project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
 
@@ -10,9 +10,9 @@ _Final project for CSE 160: Data Programming at the University of Washington (Wi
 
 	__TLDR:__ No, gender representation is about the same as it was a century ago after recently recovering from a massive trend towards over representing men in films across nearly all genres.
 
-2. How have IMBD ratings across all genres changed over time?
+2. How have IMDb ratings across all genres changed over time?
 
-	__TLDR:__ Over the past century IMBD ratings have generally decreased by about one point across all genres.
+	__TLDR:__ Over the past century IMDb ratings have generally decreased by about one point across all genres.
 
 ## Motivation and Background
 
@@ -30,9 +30,9 @@ Source: [Cornell Movie Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Corne
 - Movie metadata included:
 	- Genres
 	- Release year
-	- IMBD rating
-	- Number of IMBD votes
-	- IMBD rating
+	- IMDb rating
+	- Number of IMDb votes
+	- IMDb rating
 - Character metadata included:
 	- Gender (for 3,774 characters)
 	- Position on movie credits (3,321 characters)
@@ -58,18 +58,18 @@ Compared to gender representation about a century ago, gender representation tod
 #### Female Representation Maximums in Questionable Genre
 Other noteworthy data points to look at are the maximums for male and female representation. The maximum for male representation is 50 more male characters than female characters in the Drama genre during 1997. The maximum for female representation is only 4 more female characters than male characters in the Horror genre during 1963–-a genre with historically questionable ways of representing female characters.
 
-### IMBD Ratings
-The second question tackled changes in IMBD ratings over the last couple decades and resulted in the conclusion that ratings across all genres have generally been decreasing during the last century.
+### IMDb Ratings
+The second question tackled changes in IMDb ratings over the last couple decades and resulted in the conclusion that ratings across all genres have generally been decreasing during the last century.
 
 ![Plot of movie rating results](results/movie-rating-results.png)
 
-The first visualization from this question plots years on the x-axis and IMBD ratings on the y-axis with a colored line representing the different genres this data covers.
+The first visualization from this question plots years on the x-axis and IMDb ratings on the y-axis with a colored line representing the different genres this data covers.
 
 Looking for trends from the data as whole was a bit challenging with this graph and is the reason why I chose to make a second graph depicting a line of best fit for the data (graph below). However, like the gender representation results, there are still some interesting outlier data points that can be noted.
 
 #### The Lowest & Highest Rated Genres of the Last Century
-The minimum rating is held by Fantasy and Horror, during 1965 with an IMBD rating of 2.5. The highest rating given in this data is an 8.9, during 1993 to the War genre. This was a very surprising data point for multiple reasons. It’s the highest rating during the last century and at a time when ratings across all genres were trending at their lowest ever. Additionally, the fact that this is rating is for the war genre is a surprising result when the Cold War had just ended two years prior and the world was entering a time of relative peace.
+The minimum rating is held by Fantasy and Horror, during 1965 with an IMDb rating of 2.5. The highest rating given in this data is an 8.9, during 1993 to the War genre. This was a very surprising data point for multiple reasons. It’s the highest rating during the last century and at a time when ratings across all genres were trending at their lowest ever. Additionally, the fact that this is rating is for the war genre is a surprising result when the Cold War had just ended two years prior and the world was entering a time of relative peace.
 
 ![Plot of movie rating results with a line of best fit](results/ratings-line-of-best-fit.png)
 
-This final graph also depicts years on the x-axis and IMBD ratings on the y-axis. Each point on the graph now depicts the average of all rating across all genres for the given year with a line of best fit showing the trend of movie ratings over the last century. A possible reason for this downward trend could be a loss of novelty in films over the years, combined with an increasingly knowledgeable and critical audience of the language of filmmaking.
+This final graph also depicts years on the x-axis and IMDb ratings on the y-axis. Each point on the graph now depicts the average of all rating across all genres for the given year with a line of best fit showing the trend of movie ratings over the last century. A possible reason for this downward trend could be a loss of novelty in films over the years, combined with an increasingly knowledgeable and critical audience of the language of filmmaking.
