@@ -14,10 +14,6 @@ _Final project for CSE 160: Data Programming at the University of Washington (Wi
 
 	__TLDR:__ Over the past century IMDb ratings have generally decreased by about one point across all genres.
 
-## Motivation and Background
-
-My motivation for this project centers around my love of filmmaking in tandem with my desire for gender equality. Film and media have a large and sweeping influence on creating and transforming societal preferences and norms. The research question pertaining to gender representation is worth computing because gender equality and representation is and has been one of the most important and prevalent issues of the last century. Answering the question of how the number of female and male roles have changed over time and whether the film industry is moving closer or farther from equal representation of gender in films will allow those involved in the filmmaking process to better understand how they can push representation of gender in a direction of greater equality in the future. Of course, this doesn’t help answer the question of how males and females are predominantly portrayed in films (which arguably is the more important question to be answered in order to move towards equality), but since I don’t have access to the data/knowledge to compute a question like that I’m answering the first fundamental question of whether there’s simply equal representation of genders on the film screen. Secondly, to further any craft, skill, or knowledge one must learn from the past successes and failures to better understand what works and what doesn’t. Film is no exception and by highlighting the trends of good and bad movie ratings across time for specific genres, those involved in the filmmaking process should be able to use this data as a starting point to conduct research asking what factors played a role in the successes and failures of genres in different eras across the last couple decades.
-
 ## Dataset
 
 Source: [Cornell Movie Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
