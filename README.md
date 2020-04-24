@@ -69,3 +69,7 @@ The minimum rating is held by Fantasy and Horror, during 1965 with an IMDb ratin
 ![Plot of movie rating results with a line of best fit](results/ratings-line-of-best-fit.png)
 
 This final graph also depicts years on the x-axis and IMDb ratings on the y-axis. Each point on the graph now depicts the average of all rating across all genres for the given year with a line of best fit showing the trend of movie ratings over the last century. A possible reason for this downward trend could be a loss of novelty in films over the years, combined with an increasingly knowledgeable and critical audience of the language of filmmaking.
+
+## License
+
+[MIT](LICENSE)
