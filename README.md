@@ -78,7 +78,7 @@ This final graph also depicts years on the x-axis and IMDb ratings on the y-axis
 
 ## Notes and Acknowledgements
 
-_This was completed as part of the final individual project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
+_Film Trends Across Time was a final individual project completed as part of CSE 160: Data Programming at the University of Washington (Winter 2017)._
 
 ## License
 
