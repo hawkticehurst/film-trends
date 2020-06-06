@@ -1,8 +1,14 @@
-# Film Trends Across Time
+<h1 align="center">Film Trends Across Time</h1>
 
-A data analysis project using character metadata and IMDb ratings to discover film trends over the last ~85 years.
+<h4 align="center">A data analysis project using character metadata and IMDb ratings to discover film trends over the last ~85 years.</h4>
 
-_Final project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
+<p align="center">
+  <a href="#research-questions">Research Questions</a>&nbsp;|
+   &nbsp;<a href="#dataset">Dataset</a>&nbsp;|
+   &nbsp;<a href="#results">Results</a>&nbsp;|
+   &nbsp;<a href="#notes-and-acknowledgements">Notes and Acknowledgements</a>&nbsp;|
+   &nbsp;<a href="#license">License</a>
+</p>
 
 ## Research Questions
 
@@ -69,6 +75,10 @@ The minimum rating is held by Fantasy and Horror, during 1965 with an IMDb ratin
 ![Plot of movie rating results with a line of best fit](results/ratings-line-of-best-fit.png)
 
 This final graph also depicts years on the x-axis and IMDb ratings on the y-axis. Each point on the graph now depicts the average of all rating across all genres for the given year with a line of best fit showing the trend of movie ratings over the last century. A possible reason for this downward trend could be a loss of novelty in films over the years, combined with an increasingly knowledgeable and critical audience of the language of filmmaking.
+
+## Notes and Acknowledgements
+
+_Final project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
 
 ## License
 
