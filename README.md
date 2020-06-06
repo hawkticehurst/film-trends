@@ -78,7 +78,7 @@ This final graph also depicts years on the x-axis and IMDb ratings on the y-axis
 
 ## Notes and Acknowledgements
 
-_Final project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
+_This was completed as part of the final individual project for CSE 160: Data Programming at the University of Washington (Winter 2017)._
 
 ## License
 
